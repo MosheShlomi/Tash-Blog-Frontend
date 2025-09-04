@@ -2,7 +2,7 @@ import { Alert, TextInput, Textarea, Button } from "flowbite-react";
 import { useForm, ValidationError } from "@formspree/react";
 
 const Contact = () => {
-  const [state, handleSubmit] = useForm(import.meta.env.VITE_FORMSPREE_ID);
+  const [state, handleSubmit] = useForm("mwppwpwk");
 
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900 py-10">
