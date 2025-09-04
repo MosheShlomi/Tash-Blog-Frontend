@@ -26,7 +26,7 @@ const Home = () => {
     <div>
       <div className="flex flex-col items-center gap-8 p-8 lg:p-16 bg-gray-50 dark:bg-gray-900 text-gray-800 dark:text-gray-100">
         <h1 className="text-3xl lg:text-6xl font-bold tracking-tight text-center">
-          ברוכים הבאים לבלוג זכויות החיילים
+          ברוכה הבאים לבלוג זכויות החיילים
         </h1>
 
         <p className="text-md lg:text-lg text-center max-w-4xl leading-relaxed">
